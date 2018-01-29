@@ -28,4 +28,4 @@ Note that this is just an example. The solution should be able to handle any set
 ```sh
 FILE="A.txt" npm run start
 ```
-You can change the FILE value.# sumfiles
+You can change the FILE value
